@@ -1,1 +1,4 @@
 /* GIT */
+git status
+git add -A
+git add git.txt
